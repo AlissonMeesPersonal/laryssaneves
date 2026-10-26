@@ -6,6 +6,14 @@ Landing page institucional e comercial para Laryssa Neves, com dois objetivos:
 
 **Contato:** [Instagram](https://www.instagram.com/laryssaneves.estetica/) · [WhatsApp](https://wa.me/5551995033979)
 
+## Identidade visual Rosé Doré (v2)
+
+O redesign segue a referência fornecida da marca Laryssa Neves: rosa blush/rosé nude, dourado e café espresso. O hero é HTML/CSS real (não é uma imagem de mockup). Menus, links e CTAs são clicáveis. A nova folha `premium.css` substitui visualmente a primeira proposta sem destruir o CSS-base. Layout responsivo com CSS breakpoints para desktop/tablet/mobile.
+
+As imagens do hero e dos cards são **ilustrativas**, não fotografias da Laryssa nem de trabalhos realizados por ela. A marca LN desenhada em CSS é provisória; preferir arquivo vetorial original quando fornecido. Sem avaliações, estatísticas ou qualificações inventadas.
+
+**Deploy:** o GitHub `main` está vinculado ao projeto Vercel `laryssaneves` (e há um segundo projeto `laryssaneves-1rk9` conectado ao mesmo repositório). Evite manter dois projetos se não houver necessidade.
+
 ## Estrutura do projeto
 
 - `index.html` — conteúdo, SEO, componentes e seções.
